@@ -9,8 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaneMoreira&layout=compact&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Halanemoreira&bg_color=121112&color=f5ed05&line=f5dd42&point=949636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center"> 
 <a href = "mailto:halanemoreiras@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
