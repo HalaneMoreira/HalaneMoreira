@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="alien">
-  Farmacêutica com sólida experiência em ambiente clínico e hospitalar, combinada com uma formação robusta em tecnologia e ciência de dados. Minha atuação envolve o desenvolvimento de soluções analíticas por meio de métodos de análise descritiva, visualização de dados, aprendizado de máquina e manipulação de grandes volumes de informações.
+  Farmacêutica com sólida experiência em ambiente clínico e hospitalar, combinada com uma formação em tecnologia e ciência de dados. Minha atuação envolve o desenvolvimento de soluções analíticas por meio de métodos de análise descritiva, visualização de dados, aprendizado de máquina e manipulação de grandes volumes de informações.
 
 Tenho domínio de ferramentas como Python, Power BI e SQL, além de bibliotecas como Pandas, NumPy e Scikit-learn, que utilizo para gerar insights estratégicos e apoiar a tomada de decisões. Minha motivação está em integrar saúde e tecnologia, aplicando análise de dados e inovação tecnológica para otimizar processos, melhorar a qualidade de serviços e promover avanços no setor de saúde. Sou comprometida com aprendizado contínuo e entusiasta por soluções que impactam positivamente a vida das pessoas.
 </div>
